@@ -6,3 +6,4 @@ Hola Mundo
 
 Agregado de Matías Valentín
  testing app
+/ejecute.cmd/windows/clean.disc01
