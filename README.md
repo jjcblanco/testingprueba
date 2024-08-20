@@ -8,5 +8,10 @@ Agregado de Matías Valentín
  testing app
 /ejecute.cmd/windows/clean.disc01
 
-Esto lo agregop javier
+
 agregado de gabriel
+
+El miercoles vamos a trabajar sobre esto para mejorar la dinamica de repositorios.
+
+La idea es que todos puedan agregar y modificar archivos.
+
