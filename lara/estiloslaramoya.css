@@ -1,0 +1,79 @@
+body
+{
+    background-image: url(fondogris.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.h1Huellitas
+{
+    font-size: 20px;
+    font-family:'Lucida Sans Regular';
+    color: rgb(219, 40, 40);
+    font-weight: bolder;
+    text-align: center;
+    width: 300px;
+    background-color: antiquewhite;
+}
+.h2Clinica 
+{
+    font-size: 17px;
+    font-family: 'Lucida Sans Regular';
+    color: rgb(219, 40, 40) ;
+    text-align: center;
+    display: block;
+    background-color: antiquewhite;
+    
+    
+
+}
+.parrafo1
+{
+    font-size: 20px;
+    font-family: 'Lucida Sans Regular';
+    color: rgb(219, 40, 40) ;
+    line-height: normal;
+}
+.cj1servicios
+{
+    font-size: 20px;
+    font-family: 'Lucida Sans Regular';
+    color: rgb(0, 0, 0) ;
+    background-position: center;
+}
+
+.imgradio {
+    width: 300;
+}
+
+.imgp1:hover {
+    width: 400;
+    height: 260;
+    opacity: 0.6;
+}
+
+.ingreso {
+    border: none;
+    background-color: inherit;
+    padding: 18px 30px;
+    font-size: 30px;
+    cursor: pointer;
+    display: inline-block;
+    color: rgb(255, 0, 21);
+    background: antiquewhite;
+    border-radius: 25px;
+    width: 200px;
+    height: 100px;
+}
+input [type="submit"] {
+    width: 100%;
+    padding: 20px 48px;
+    background-color: rgb(4, 0, 255);
+    color: rgb(255, 0, 200);
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
