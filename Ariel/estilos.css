@@ -1,15 +1,21 @@
 body
 {
     background-color: aliceblue;
-    background-image: url(Otp.jpeg);
-    background-repeat: repeat;
-    background-size: cover;
+    background-image: url(brand3.jpeg)
+}
+.cabecera {
+    background: yellow;
+    border: 3px solid #999;
+    padding: 20px;
+    opacity: 25%;
 }
 .menu {
     background: #ccc;
     padding: 5px 15px;
     text-align: left;
+    opacity: 25%;
 }
+
 .box1
 {
     font-family: 'Courier New', Courier, monospace;
@@ -20,4 +26,29 @@ img
 {
     width: 1000;
     height: 800;
+}
+h1{
+    color: blue;
+    text-align: left;
+
+}
+h2{
+    color: red;
+    text-align: center;
+}
+h3{
+    color: whitesmoke;
+    text-align: right;
+}
+.btn{
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px 20px;
+    opacity: 25%;
+    color: #ffffff;
+    font-size: 15px;
+    border: 1px solid #fff;
+    margin: 10px 0;
+    
 }
